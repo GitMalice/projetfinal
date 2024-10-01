@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: python-webapp
-        image: flaskapp:latest
+        image: dockmalice/flaskapp:latest
         ports:
         - containerPort: 5000
 ---
