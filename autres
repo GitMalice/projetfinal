@@ -1,4 +1,4 @@
-# Utiliser Ubuntu 22.04 comme base
+# Utiliser Ubuntu 22.04 comme base:
 FROM ubuntu:22.04
 
 # Mettre à jour les paquets et installer les dépendances nécessaires
